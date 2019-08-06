@@ -8,6 +8,7 @@ Endpoint: GET https://interns.bcgdvsydney.com/api/v1/key
 Returns: key.json file:
 
 {
+
       "key": "14ae13d0-dada-4acc-a922-8acea0a050f6", 
         
       "expires": "2019-08-06 10:01:42.395734"
@@ -25,9 +26,10 @@ Endpoint: POST https://interns.bcgdvsydney.com/api/v1/submit?apiKey=14ae13d0-dad
 Body: submit.json file:
 
 {
-  "name": "Xu Han", 
+
+       "name": "Xu Han", 
   
-  "email": "xhhan1@student.unimelb.edu.au"
+       "email": "xhhan1@student.unimelb.edu.au"
 }
 
 HTTP Status: 202 Accepted
