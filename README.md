@@ -14,7 +14,7 @@ Returns: key.json file:
 
 HTTP Status: 201 Created
 
-Screenshot: get key.png
+Screenshot: get_key.png
 
 # 2. Application Submission
 A name and email address are payloads to be submitted using the generated API key above as an application/json request.
