@@ -8,7 +8,6 @@ Endpoint: GET https://interns.bcgdvsydney.com/api/v1/key
 Returns: key.json file:
 
 {
-
       "key": "14ae13d0-dada-4acc-a922-8acea0a050f6", 
         
       "expires": "2019-08-06 10:01:42.395734"
